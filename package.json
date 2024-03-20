@@ -1,0 +1,19 @@
+{
+  "name": "usama01calculator",
+  "version": "1.0.3",
+  "description": "A simple calculator that performs basic arthmetic operations using Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usama Gulshan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
